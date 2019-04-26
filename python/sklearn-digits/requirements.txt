@@ -1,1 +1,1 @@
-rekcurd-client>=1.0.0a0 # Apache-2.0
+rekcurd-client>=1.0.0 # Apache-2.0
